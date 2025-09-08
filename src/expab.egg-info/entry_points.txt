@@ -1,0 +1,2 @@
+[console_scripts]
+expab = expab.cli:app

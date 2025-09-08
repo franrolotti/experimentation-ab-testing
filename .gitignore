@@ -1,0 +1,6 @@
+.venv/
+data/processed/
+reports/
+__pycache__/
+.pytest_cache/
+*.png
