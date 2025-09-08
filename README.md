@@ -1,4 +1,4 @@
-# A/B Testing for Signup Funnel (Production)
+# A/B Testing for Signup Funnel
 
 
 **Goal**: Estimate the causal effect of a signup-flow variant on profile completion.
@@ -15,4 +15,3 @@ make demo # simulate → analyze → report
 Outputs in `reports/signup_v1/`.
 
 
-**Notes**: Avoid peeking; check SRM and invariants first; CUPED reduces variance when covariate is predictive.
